@@ -18,7 +18,7 @@ This is a web-based implementation of the classic Simon game. The game tests you
 - Successfully complete each round to progress to the next level and challenge yourself with longer sequences.
 
 ## Play the game 👇:
-Link to live demo (Add the link to your live demo here)
+https://anamolkhadka.github.io/simon_game/
 
 ## Technologies used:
 
